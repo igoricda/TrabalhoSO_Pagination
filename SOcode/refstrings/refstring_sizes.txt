@@ -1,0 +1,3 @@
+t1seq = 4336557 entradas
+hello = 96149 entradas
+dijkstra = 1429517 entradas
